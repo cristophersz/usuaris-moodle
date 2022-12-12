@@ -13,9 +13,13 @@ Mostra els cursos i categories creades a l'apartat anterior.
 Hi han 4
 
 Administrador/Gestor
-Professor amb permís d'edició
-Professor tutor
+Creador de curs
+Professor
+Professor sense permís d'edició
 Estudiant
+Convidat
+Usuari identificat
+Usuari idenftificat en la pàgina principal
 
 3. Quins rols poden assignar cada tipus d'usuaris?
 
@@ -28,3 +32,4 @@ els crearem en l'administració del lloc
 ![image](https://user-images.githubusercontent.com/116022089/207113874-7e1f0a5d-0cc6-4dfc-8330-094e7faa74df.png)
 
 ![image](https://user-images.githubusercontent.com/116022089/207114373-855d8f35-2e7f-4ac8-91a7-e9cdd08b08fc.png)
+
