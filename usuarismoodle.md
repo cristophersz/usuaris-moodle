@@ -53,12 +53,29 @@ i el 3 usuari de profe no té permisos de edició
 
 5. Afegeix un fitxer d'usuaris des de fitxer (4 companys de classe) simultàniament carregatn un fitxer de dades, com es veu a la imatge.
 
+6. Fes que Cognom_1_profe sigui professor dels cursos: MP04,MP12,MP08 I MP07
+  
+  Per a fer esta tasca hem d'accedir a un curs i fer el següent:
 
-6. Fes que Cognom_1_profe sigui professor dels cursos: MP04,MP126,MP08 I MP07
+![image](https://user-images.githubusercontent.com/116022089/208488845-47859714-aa3e-4d46-b30d-963604bc3d3c.png)
+
+![image](https://user-images.githubusercontent.com/116022089/208489015-5404c868-93b9-4a56-b39c-1a070cead3f6.png)
+
+![image](https://user-images.githubusercontent.com/116022089/208489116-69f17877-993b-4057-be60-7e9f1ddaf0cb.png)
+
 7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
+
+![image](https://user-images.githubusercontent.com/116022089/208490582-bf6ce46f-effa-4966-9a3e-c3377904df0a.png)
+
 8. Fes que Cognom_3_profe sigui professor de tots els cursos.
+
+![image](https://user-images.githubusercontent.com/116022089/208491159-75fa2b1f-e6e7-4086-998f-80bb63dbe09c.png)
+
 9. Afegeix a tots els alumnes a tots els cursos (els 5).
 10. Mostra l'apartat Participants de cada curs.
+    
+    
+
 11. Què són les Cohorts?
 12. Perquè serveixen?
 13. Què sòn els grups?
