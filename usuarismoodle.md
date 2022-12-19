@@ -38,8 +38,22 @@ els crearem en l'administració del lloc
 
 ![image](https://user-images.githubusercontent.com/116022089/207114373-855d8f35-2e7f-4ac8-91a7-e9cdd08b08fc.png)
 
+i el 3 usuari de profe no té permisos de edició
+
+![image](https://user-images.githubusercontent.com/116022089/208477349-9e07b5b9-ce68-475c-87f4-c15f742e4f97.png)
+
+
 4. Crea un alumne anomenat Cognom_1_alumne.
+
+![image](https://user-images.githubusercontent.com/116022089/208477538-28a65065-2ae8-4021-ab87-40f5f00511b2.png)
+
+![image](https://user-images.githubusercontent.com/116022089/208477781-9826a9c2-7e84-4dd0-87f0-0a51da102378.png)
+
+![image](https://user-images.githubusercontent.com/116022089/208478209-50c93877-e1fd-4352-9713-0cd73d6060c5.png)
+
 5. Afegeix un fitxer d'usuaris des de fitxer (4 companys de classe) simultàniament carregatn un fitxer de dades, com es veu a la imatge.
+
+
 6. Fes que Cognom_1_profe sigui professor dels cursos: MP04,MP126,MP08 I MP07
 7. Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
 8. Fes que Cognom_3_profe sigui professor de tots els cursos.
